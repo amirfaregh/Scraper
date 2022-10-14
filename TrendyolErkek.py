@@ -19,25 +19,26 @@ def find_items():
             item_text = item_name.text
         else:
             item_text = "NoneType"
-        item_price = card.find('div', 'prc-box-dscntd').text.replace(' ', '')
+        item_price = card.find(
+            'div', 'prc-box-dscntd').text.replace(' ', ',').replace(',', '.')
         item_brand = card.find('span', 'prdct-desc-cntnr-ttl').text
         item_link = card.a['href']
         x = x+1
 
-        # with open(f'posts/{index}.txt', 'w', encoding="utf-8") as f:
-        #     f.write(f"item name: {item_text}\n")
-        #     f.write(f"item price: {item_price.strip()}\n")
-        #     f.write(f"item brand: {item_brand}\n")
-        #     f.write(f"item address: http://www.trendyol.com{item_link}\n")
-        #     f.write("_______________________")
-        # print("files have been created")
+        with open(f'posts/Trendyol/Erkek/{index}.txt', 'w', encoding="utf-8") as f:
+            f.write(f"item name: {item_text}\n")
+            f.write(f"item price: {item_price.strip()}\n")
+            f.write(f"item brand: {item_brand}\n")
+            f.write(f"item address: http://www.trendyol.com{item_link}\n")
+            f.write("_______________________")
+    print("files have been created")
 
-        print(index)
-        print(f"item name: {item_text}")
-        print(f"item price: {item_price.strip()}")
-        print(f"item brand: {item_brand}")
-        print(f"item address: http://www.trendyol.com{item_link}")
-        print('-----------------------')
+    # print(index)
+    # print(f"item name: {item_text}")
+    # print(f"item price: {item_price.strip()}")
+    # print(f"item brand: {item_brand}")
+    # print(f"item address: http://www.trendyol.com{item_link}")
+    # print('-----------------------')
 
 
 find_items()
