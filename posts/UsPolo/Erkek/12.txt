@@ -1,0 +1,5 @@
+item name: Erkek Beyaz Hakim Yaka T-Shirt
+item price: 134.96
+item brand: UsPolo
+item address: https://tr.uspoloassn.com/erkek-beyaz-hakim-yaka-t-shirt-50247366-vr013-1/
+_______________________

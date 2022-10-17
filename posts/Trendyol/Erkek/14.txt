@@ -1,0 +1,5 @@
+item name: Flex 5 Sistem Tıraş Bıçağı 1 Sap + 6 Yedek Kartuş Ve Tıraş Çantası
+item price: 119.90.TL
+item brand: Bic
+item address: http://www.trendyol.com/bic/flex-5-sistem-tiras-bicagi-1-sap-6-yedek-kartus-ve-tiras-cantasi-p-270764721
+_______________________

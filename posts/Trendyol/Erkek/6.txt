@@ -1,0 +1,5 @@
+item name: Tüy Dökücü Krem
+item price: 129.TL
+item brand: EPİFY
+item address: http://www.trendyol.com/epify/tuy-dokucu-krem-p-98844337
+_______________________

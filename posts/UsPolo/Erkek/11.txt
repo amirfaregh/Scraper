@@ -1,0 +1,5 @@
+item name: Erkek Siyah Polo Yaka T-Shirt Basic
+item price: 134.96
+item brand: UsPolo
+item address: https://tr.uspoloassn.com/erkek-siyah-polo-yaka-t-shirt-basic-50247371-vr046/
+_______________________

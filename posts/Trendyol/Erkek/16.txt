@@ -1,0 +1,5 @@
+item name: Brezilya Keratin Saç Botox
+item price: 129.TL
+item brand: Cair Up
+item address: http://www.trendyol.com/cair-up/brezilya-keratin-sac-botox-p-226087135
+_______________________

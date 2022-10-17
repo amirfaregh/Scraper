@@ -1,0 +1,5 @@
+item name: Erkek Siyah Denim Pantolon
+item price: 359.96
+item brand: UsPolo
+item address: https://tr.uspoloassn.com/erkek-siyah-denim-pantolon-50254205-dn0027/
+_______________________

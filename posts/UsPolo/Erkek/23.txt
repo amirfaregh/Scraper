@@ -1,0 +1,5 @@
+item name: Erkek Siyah Bisiklet Yaka T-Shirt
+item price: 107.96
+item brand: UsPolo
+item address: https://tr.uspoloassn.com/erkek-siyah-bisiklet-yaka-t-shirt-50247332-vr046/
+_______________________

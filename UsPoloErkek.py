@@ -1,11 +1,10 @@
-from types import NoneType
 from bs4 import BeautifulSoup
 import requests
 import time
-from os.path import basename
 
 
 def find_items():
+    global item_link
     html_text = requests.get(
         'https://tr.uspoloassn.com/erkek-tum-urunler/').text
     soup = BeautifulSoup(html_text, 'html.parser')
@@ -22,22 +21,33 @@ def find_items():
 
         item_brand = 'UsPolo'
 
-        item_link = card.find('span').a['href']
+        item_link = card.find('span', 'product__name').a['href']
 
-        # print(index)
-        # print(f"item name: {item_name}")
-        # print(f"item price: {item_price}")
-        # print(f"item brand: {item_brand}")
-        # print(f"item address: https://tr.uspoloassn.com/{item_link}")
-        # print('-----------------------')
+    #     with open(f'posts/Trendyol/Erkek/{index}.txt', 'w', encoding="utf-8") as f:
+    #         f.write(f"item name: {item_name}\n")
+    #         f.write(f"item price: {item_price.strip()}\n")
+    #         f.write(f"item brand: {item_brand}\n")
+    #         f.write(f"item address: https://tr.uspoloassn.com{item_link}\n")
+    #         f.write("_______________________")
+    # print("files have been created")
 
-        with open(f'posts/UsPolo/Erkek/{index}.txt', 'w', encoding="utf-8") as f:
-            f.write(f"item name: {item_name}\n")
-            f.write(f"item price: {item_price}\n")
-            f.write(f"item brand: {item_brand}\n")
-            f.write(f"item address: https://tr.uspoloassn.com{item_link}\n")
-            f.write("_______________________")
-    print("files have been created")
+        print(index)
+        print(f"item name: {item_name}")
+        print(f"item price: {item_price.strip()}")
+        print(f"item brand: {item_brand}")
+        print(f"item address: https://tr.uspoloassn.com{item_link}")
+        print('-----------------------')
 
 
 find_items()
+
+
+def item_info():
+    new_item_link = "https://tr.uspoloassn.com"+item_link
+
+    html_text = requests.get(new_item_link).text
+    selected_part = html_text.find_all('ul', class_='cf')
+    print(selected_part)
+
+
+item_info()

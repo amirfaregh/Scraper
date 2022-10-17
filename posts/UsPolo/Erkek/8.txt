@@ -1,0 +1,5 @@
+item name: Erkek Lacivert T-Shirt Basic
+item price: 121.46
+item brand: UsPolo
+item address: https://tr.uspoloassn.com/erkek-lacivert-t-shirt-basic-50251701-vr033-1/
+_______________________

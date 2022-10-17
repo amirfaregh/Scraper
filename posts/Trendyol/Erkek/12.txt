@@ -1,0 +1,5 @@
+item name: Saç Oluşumunu Destekleyen ve Dökülmeyi Engelleyen Şampuan 300 ml
+item price: 115.42.TL
+item brand: Yves Rocher
+item address: http://www.trendyol.com/yves-rocher/sac-olusumunu-destekleyen-ve-dokulmeyi-engelleyen-sampuan-300-ml-p-153006641
+_______________________

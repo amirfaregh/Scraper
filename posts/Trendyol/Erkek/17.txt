@@ -1,0 +1,5 @@
+item name: NoneType
+item price: 1.280.39.TL
+item brand: Lacoste
+item address: http://www.trendyol.com/lacoste/erkek-classic-fit-uzun-kollu-siyah-polo-yaka-p-366583704
+_______________________

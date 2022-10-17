@@ -1,0 +1,5 @@
+item name: Erkek Beyaz Gömlek Uzunkol Basic
+item price: 224.96
+item brand: UsPolo
+item address: https://tr.uspoloassn.com/erkek-beyaz-gomlek-uzunkol-basic-50254188-vr013/
+_______________________

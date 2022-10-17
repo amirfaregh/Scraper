@@ -1,0 +1,5 @@
+item name: Erkek Mavi Basic %100 Pamuk Polo Yaka T-shirt E001004
+item price: 99.99.TL
+item brand: Avva
+item address: http://www.trendyol.com/avva/erkek-mavi-basic-100-pamuk-polo-yaka-t-shirt-e001004-p-286126276
+_______________________

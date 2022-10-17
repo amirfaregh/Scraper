@@ -1,0 +1,5 @@
+item name: Erkek Bordo V-Yaka Triko Kazak Basic
+item price: 337.46
+item brand: UsPolo
+item address: https://tr.uspoloassn.com/erkek-bordo-v-yaka-triko-kazak-basic-50207651-vr014/
+_______________________

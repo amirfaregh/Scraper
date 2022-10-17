@@ -1,0 +1,5 @@
+item name: Erkek Beyaz Polo Yaka T-Shirt
+item price: 121.46
+item brand: UsPolo
+item address: https://tr.uspoloassn.com/erkek-beyaz-polo-yaka-t-shirt-50247373-vr013/
+_______________________
