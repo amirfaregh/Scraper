@@ -1,5 +1,0 @@
-item name: Dry Ru Rol-on 50 Ml
-item price: 330.TL
-item brand: DRYDRY
-item address: http://www.trendyol.com/drydry/dry-ru-rol-on-50-ml-p-241008328
-_______________________

@@ -1,5 +1,0 @@
-item name: QL Argan ve Keratin Saç Serumu (Aşırı Yıpranmış ve Dökülen Saçlara Özel)
-item price: 151.42.TL
-item brand: Quality Life
-item address: http://www.trendyol.com/quality-life/ql-argan-ve-keratin-sac-serumu-asiri-yipranmis-ve-dokulen-saclara-ozel-p-77531036
-_______________________

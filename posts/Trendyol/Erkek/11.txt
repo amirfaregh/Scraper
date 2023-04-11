@@ -1,5 +1,0 @@
-item name: Ql 6 Aktifli Şampuan Dökülme Karşıtı Geç Uzayan Saçlar Tuzsuz Parabensiz Sülfatsız Hızlı Saç Uzatma
-item price: 149.TL
-item brand: Quality Life
-item address: http://www.trendyol.com/quality-life/ql-6-aktifli-sampuan-dokulme-karsiti-gec-uzayan-saclar-tuzsuz-parabensiz-sulfatsiz-hizli-sac-uzatma-p-261023491
-_______________________

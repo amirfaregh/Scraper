@@ -1,5 +1,0 @@
-item name: Erkek Desenli Likralı Pamuklu Boxer 5li Paket
-item price: 170.20.TL
-item brand: Tutku
-item address: http://www.trendyol.com/tutku/erkek-desenli-likrali-pamuklu-boxer-5li-paket-p-77989524
-_______________________

@@ -1,5 +1,0 @@
-item name: Quattro Titanium 4 Yedek Kartuş
-item price: 109.65.TL
-item brand: Wilkinson
-item address: http://www.trendyol.com/wilkinson/quattro-titanium-4-yedek-kartus-p-3735951
-_______________________

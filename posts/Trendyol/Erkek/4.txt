@@ -1,5 +1,0 @@
-item name: Mach 3 Start Tıraş Bıçağı 4'lü Yedek Başlık
-item price: 103.90.TL
-item brand: Gillette
-item address: http://www.trendyol.com/gillette/mach-3-start-tiras-bicagi-4-lu-yedek-baslik-p-31347831
-_______________________

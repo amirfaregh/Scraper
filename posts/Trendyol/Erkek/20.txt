@@ -1,5 +1,0 @@
-item name: Erkek Siyah Termal Alt Üst Takım
-item price: 161.TL
-item brand: Tutku
-item address: http://www.trendyol.com/tutku/erkek-siyah-termal-alt-ust-takim-p-71256500
-_______________________

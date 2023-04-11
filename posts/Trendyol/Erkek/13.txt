@@ -1,5 +1,0 @@
-item name: Forte Şampuan Tüm Saç Tipleri Için 3x300ml Yoğun Saç Dökülmesi Şampuanı
-item price: 144.90.TL
-item brand: Bioxcin
-item address: http://www.trendyol.com/bioxcin/forte-sampuan-tum-sac-tipleri-icin-3x300ml-yogun-sac-dokulmesi-sampuani-p-85337
-_______________________

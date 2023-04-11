@@ -1,5 +1,0 @@
-item name: Saç Dökülmesine Karşı Bakım Şampuanı 500 ml
-item price: 119.TL
-item brand: wline
-item address: http://www.trendyol.com/wline/sac-dokulmesine-karsi-bakim-sampuani-500-ml-p-332604573
-_______________________

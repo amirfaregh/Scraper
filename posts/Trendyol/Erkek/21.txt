@@ -1,5 +1,0 @@
-item name: Mayo Hair Mayonnaise Saç Mayonezi Maskesi 200 ml
-item price: 99.TL
-item brand: CosmoFood
-item address: http://www.trendyol.com/cosmofood/mayo-hair-mayonnaise-sac-mayonezi-maskesi-200-ml-p-345364794
-_______________________
