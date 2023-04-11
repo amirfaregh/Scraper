@@ -74,7 +74,7 @@ def black_friday():
                 'span', class_='prdct-desc-cntnr-ttl').text
             # __________________________________
 
-            # Item Link
+            # Item Link comment
             item_link = card.a['href']
             # __________________________________
 
