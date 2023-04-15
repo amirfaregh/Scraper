@@ -1,5 +1,0 @@
-item name: Erkek Lacivert Polo Yaka T-Shirt
-item price: 121.46
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-lacivert-polo-yaka-t-shirt-50247373-vr033/
-_______________________

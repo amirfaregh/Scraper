@@ -1,5 +1,0 @@
-item name: Erkek Gri Melanj Örme Pantolon
-item price: 152.96
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-gri-melanj-orme-pantolon-50251680-vr086/
-_______________________

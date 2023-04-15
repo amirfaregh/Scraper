@@ -1,5 +1,0 @@
-item name: Erkek Saks Gömlek Uzunkol Basic
-item price: 224.96
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-saks-gomlek-uzunkol-basic-50254188-vr045/
-_______________________

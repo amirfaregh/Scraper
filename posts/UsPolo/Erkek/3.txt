@@ -1,5 +1,0 @@
-item name: Erkek Gri Melanj T-Shirt Basic
-item price: 121.46
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-gri-melanj-t-shirt-basic-50251701-vr086/
-_______________________

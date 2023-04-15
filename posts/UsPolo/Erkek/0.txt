@@ -1,5 +1,0 @@
-item name: Erkek Beyaz T-Shirt Basic
-item price: 121.46
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-beyaz-t-shirt-basic-50251701-vr013/
-_______________________
