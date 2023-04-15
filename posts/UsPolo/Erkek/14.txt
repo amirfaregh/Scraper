@@ -1,5 +1,0 @@
-item name: Erkek Lacivert Bisiklet Yaka T-Shirt
-item price: 107.96
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-lacivert-bisiklet-yaka-t-shirt-50247339-vr033/
-_______________________

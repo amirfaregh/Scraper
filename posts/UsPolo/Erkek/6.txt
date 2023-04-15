@@ -1,5 +1,0 @@
-item name: Erkek Beyaz Polo Yaka T-Shirt Basic
-item price: 134.96
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-beyaz-polo-yaka-t-shirt-basic-50247371-vr013/
-_______________________

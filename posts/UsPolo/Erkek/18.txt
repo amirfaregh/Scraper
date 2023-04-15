@@ -1,5 +1,0 @@
-item name: Erkek Beyaz Bisiklet Yaka Oversize T-Shirt
-item price: 98.96
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-beyaz-bisiklet-yaka-oversize-t-shirt-50252132-vr013/
-_______________________

@@ -1,5 +1,0 @@
-item name: Erkek Antrasit Melanj Bisiklet Yaka Sweatshirt Basic
-item price: 305.96
-item brand: UsPolo
-item address: https://tr.uspoloassn.com/erkek-antrasit-melanj-bisiklet-yaka-sweatshirt-basic-50225481-vr081-3/
-_______________________
