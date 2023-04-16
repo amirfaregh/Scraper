@@ -95,8 +95,8 @@ def scrape():
         # Edits
         edit_image.rectangle((1500, 100, 300, 200), fill=('beige'))
         edit_image.text((half_width, 100), text_to_add, ('black'), font=text_price_font)
-        edit_image.text((60, (new_height-70)), (f'{item_brand} {item_text}'), ('black'), font=text_title_font)
-        edit_image.text((60, (new_height-150)), (f'size: {sizes}'), ('black'), font=text_size_font)
+        edit_image.text((60, (new_height-100)), (f'{item_brand} {item_text}'), ('black'), font=text_title_font)
+        edit_image.text((60, (new_height-170)), (f'size: {sizes}'), ('black'), font=text_size_font)
 
         # Functions
         my_image.save(f'{main_dir}/{index}.jpg')
@@ -105,7 +105,7 @@ def scrape():
     image_files = [f for f in os.listdir(main_dir) if f.endswith('.jpg') or f.endswith('.png')]
 
     # Create a new blank image to group the four images
-    group_image = Image.new('RGB', (1080, 2020), (255, 255, 255))
+    group_image = Image.new('RGB', (1080, 1920), (255, 255, 255))
 
     # Iterate through the list of image files and group them into a single image
     for i in range(0, len(image_files), 4):
@@ -115,14 +115,14 @@ def scrape():
                 image = Image.open(os.path.join(main_dir, image_files[i+j]))
                 image = image.resize((560, 960), Image.ANTIALIAS)
                 x = j % 2 * 540
-                y = j // 2 * 960 + 100  # add 100 pixels to top margin
+                y = j // 2 * 935 + 50  # add 100 pixels to top margin
                 group_image.paste(image, (x, y))
 
         # Save the group image with a unique name
         group_image.save(os.path.join(main_dir, 'grouped_{}.jpg'.format(i//4)))
 
         # Reset the group image for the next batch
-        group_image = Image.new('RGB', (1080, 2020), (255, 255, 255))
+        group_image = Image.new('RGB', (1080, 1920), (255, 255, 255))
     
 
 scrape()
