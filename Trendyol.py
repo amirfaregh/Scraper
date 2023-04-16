@@ -77,12 +77,12 @@ def scrape():
         # Edit Image
 
         my_image = PIL.Image.open(f'{main_dir}/{index}.jpg')
-        my_image = add_margin(my_image, 250, 100, 250, 100, 'white')
+        my_image = add_margin(my_image, 180, 90, 180, 90, 'white')
 
         # Parameters
         text_price_size = 80
         text_title_size = 30
-        text_size_size = 45
+        text_size_size = 60
         text_price_font = ImageFont.truetype("arial.ttf", text_price_size)
         text_title_font = ImageFont.truetype("arial.ttf", text_title_size)
         text_size_font = ImageFont.truetype("arial.ttf", text_size_size)
@@ -95,8 +95,8 @@ def scrape():
         # Edits
         edit_image.rectangle((1500, 100, 300, 200), fill=('beige'))
         edit_image.text((half_width, 100), text_to_add, ('black'), font=text_price_font)
-        edit_image.text((60, (new_height-150)), (f'{item_brand} {item_text}'), ('black'), font=text_title_font)
-        edit_image.text((60, (new_height-210)), (f'size: {sizes}'), ('black'), font=text_size_font)
+        edit_image.text((60, (new_height-70)), (f'{item_brand} {item_text}'), ('black'), font=text_title_font)
+        edit_image.text((60, (new_height-150)), (f'size: {sizes}'), ('black'), font=text_size_font)
 
         # Functions
         my_image.save(f'{main_dir}/{index}.jpg')
@@ -115,7 +115,7 @@ def scrape():
                 image = Image.open(os.path.join(main_dir, image_files[i+j]))
                 image = image.resize((560, 960), Image.ANTIALIAS)
                 x = j % 2 * 540
-                y = j // 2 * 960 + 150  # add 100 pixels to top margin
+                y = j // 2 * 960 + 100  # add 100 pixels to top margin
                 group_image.paste(image, (x, y))
 
         # Save the group image with a unique name
